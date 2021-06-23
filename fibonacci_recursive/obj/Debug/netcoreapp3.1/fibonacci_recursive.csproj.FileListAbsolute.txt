@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\fibonacci_recursive\fibonacci_recursive\bin\Debug\netcoreapp3.1\fibonacci_recursive.exe
+C:\Users\admin\source\repos\fibonacci_recursive\fibonacci_recursive\bin\Debug\netcoreapp3.1\fibonacci_recursive.deps.json
+C:\Users\admin\source\repos\fibonacci_recursive\fibonacci_recursive\bin\Debug\netcoreapp3.1\fibonacci_recursive.runtimeconfig.json
+C:\Users\admin\source\repos\fibonacci_recursive\fibonacci_recursive\bin\Debug\netcoreapp3.1\fibonacci_recursive.runtimeconfig.dev.json
+C:\Users\admin\source\repos\fibonacci_recursive\fibonacci_recursive\bin\Debug\netcoreapp3.1\fibonacci_recursive.dll
+C:\Users\admin\source\repos\fibonacci_recursive\fibonacci_recursive\bin\Debug\netcoreapp3.1\fibonacci_recursive.pdb
+C:\Users\admin\source\repos\fibonacci_recursive\fibonacci_recursive\obj\Debug\netcoreapp3.1\fibonacci_recursive.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\fibonacci_recursive\fibonacci_recursive\obj\Debug\netcoreapp3.1\fibonacci_recursive.AssemblyInfo.cs
+C:\Users\admin\source\repos\fibonacci_recursive\fibonacci_recursive\obj\Debug\netcoreapp3.1\fibonacci_recursive.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\fibonacci_recursive\fibonacci_recursive\obj\Debug\netcoreapp3.1\fibonacci_recursive.dll
+C:\Users\admin\source\repos\fibonacci_recursive\fibonacci_recursive\obj\Debug\netcoreapp3.1\fibonacci_recursive.pdb
+C:\Users\admin\source\repos\fibonacci_recursive\fibonacci_recursive\obj\Debug\netcoreapp3.1\fibonacci_recursive.genruntimeconfig.cache
